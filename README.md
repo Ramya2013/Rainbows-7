@@ -1,6 +1,6 @@
 # Rainbows-7
-##Fruits
-###Vegetables
+## Fruits
+### Vegetables
 1. Carrot
 2. Beans
 3. Potato
