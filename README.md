@@ -12,3 +12,5 @@
 9. Grapes
 10. kiwi
 11. Blueberry
+12. Strawberry
+13. Banana
